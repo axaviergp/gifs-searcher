@@ -9,4 +9,6 @@ import { Component } from '@angular/core';
 })
 export class SidebarComponent {
 
+  //Agregar el servicio de gifs debe ser privado
+
 }
